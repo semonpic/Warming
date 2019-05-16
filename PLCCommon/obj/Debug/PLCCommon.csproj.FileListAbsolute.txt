@@ -1,0 +1,744 @@
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.xml
+D:\Jack\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe.config
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe.config
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.xml
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+E:\_\1227\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0104\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.xml
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\0107\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0110\0109\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0111\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\0117\ATSUI_ChangeVersion\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0118\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0118\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0118\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0118\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0118\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0118\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0118\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0118\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0118\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0118\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0118\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0118\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0118\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0118\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0118\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0118\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0122\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0122\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0122\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0122\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0122\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0122\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0122\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0122\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0122\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0122\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0122\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0122\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0122\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0122\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0122\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0122\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0125\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0125\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0125\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0125\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0125\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0125\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0125\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0125\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0125\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0125\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0125\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0125\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0125\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0125\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0125\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0125\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0129\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0129\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0130\0130\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0130\0130\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0130\0130\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0130\0130\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0130\0130\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0130\0130\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0130\0130\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0130\0130\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0130\0130\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0130\0130\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0130\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0130\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0131\0130\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0211\0211\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0213\0211\0211\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0211\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0213\0211\0219\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0219\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0213\0211\0221\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0221\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0213\0211\0222\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0213\0211\0222\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0223\0222\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0223\0222\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0223\0222\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0223\0222\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0223\0222\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0223\0222\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0223\0222\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0223\0222\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0223\0222\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0223\0222\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0223\022301\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0223\022301\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0223\022301\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0223\022301\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0223\022301\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0223\022301\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0223\022301\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0223\022301\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0223\022301\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0223\022301\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0223\022601\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0223\022601\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0223\022601\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0223\022601\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0223\022601\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0223\022601\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0223\022601\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0223\022601\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0223\022601\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0223\022601\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0305\030501\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0305\030501\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0305\030501\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0305\030501\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0305\030501\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0305\030501\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030501\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0305\030501\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0305\030501\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0305\030501\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0305\030601\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0305\030601\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0305\030601\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0305\030601\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0305\030601\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0305\030601\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030601\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0305\030601\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0305\030601\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0305\030601\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0305\030602\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0305\030602\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0305\030602\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0305\030602\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0305\030602\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0305\030602\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030602\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0305\030602\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0305\030602\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0305\030602\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0305\030702\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0305\030702\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0305\030702\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0305\030702\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0305\030702\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0305\030702\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030702\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0305\030702\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0305\030702\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0305\030702\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\030801\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\030801\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\031101\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\031101\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0312\031201\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0312\031201\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0312\031201\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0312\031201\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0312\031201\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0312\031201\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031201\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0312\031201\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0312\031201\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0312\031201\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0312\031202\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0312\031202\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0312\031202\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0312\031202\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0312\031202\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0312\031202\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031202\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0312\031202\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0312\031202\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0312\031202\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0312\031301\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0312\031301\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0312\031301\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0312\031301\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0312\031301\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0312\031301\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031301\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0312\031301\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0312\031301\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0312\031301\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0312\031302\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0312\031302\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0312\031302\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0312\031302\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0312\031302\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0312\031302\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031302\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0312\031302\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0312\031302\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0312\031302\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0315\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0315\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0318\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0318\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0318\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0318\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0318\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0318\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0318\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0318\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0318\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0318\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0318\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0318\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0318\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0318\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0318\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0318\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0320\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0320\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0320\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0320\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0320\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0320\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0320\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0320\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0320\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0320\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0320\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0320\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0320\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0320\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0320\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0320\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0325\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0325\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0325\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0325\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0325\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0325\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0325\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0325\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0325\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0325\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0325\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0325\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0325\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0325\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0325\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0325\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0326\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0326\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0326\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0326\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0326\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0326\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0326\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0326\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0326\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0326\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0326\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0326\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0326\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0326\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0326\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0326\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Jack\0328\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Jack\0328\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Jack\0328\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Jack\0328\PLCCommon\bin\Debug\ATS.exe
+D:\Jack\0328\PLCCommon\bin\Debug\WiseTech.exe
+D:\Jack\0328\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0328\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Jack\0328\PLCCommon\bin\Debug\ATS.pdb
+D:\Jack\0328\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Jack\0328\PLCCommon\obj\Debug\PLCCommon.csprojResolveAssemblyReference.cache
+D:\Jack\0328\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Jack\0328\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Jack\0328\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Jack\0328\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.Cache
+D:\Jack\0328\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Jack\0328\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0429\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0429\PLCCommon\obj\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\PLCCommon.exe.config
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\PLCCommon.pdb
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\ATS.exe
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\Pinsoft.Common.dll
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\ATS.pdb
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\ATS.exe.config
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0503\PLCCommon\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCconnect.PLCCommon.resources
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.Properties.Resources.resources
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCconnect.WarmSuccess.resources
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.csproj.CopyComplete
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.exe
+D:\Working software\膠管回溫機\0503\PLCCommon\obj\Debug\PLCCommon.pdb

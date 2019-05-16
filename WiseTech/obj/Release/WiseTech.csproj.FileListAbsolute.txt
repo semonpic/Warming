@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\WiseTech.exe.config
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\WiseTech.exe
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\WiseTech.pdb
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\System.Data.SQLite.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Release\System.Data.SQLite.xml
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Release\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Release\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Release\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Release\WiseTech.exe
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Release\WiseTech.pdb

@@ -1,0 +1,1132 @@
+D:\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+D:\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+D:\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+D:\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+D:\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+D:\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+D:\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\IEUser\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\whitely\Desktop\912ATS_REV01\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+D:\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\ATSUI0923\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\0924\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\0925\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\0927\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\0928\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1003\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1004\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1010\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1019\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1022\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1029\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1101\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1105\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1107\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1109\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1115\ATSUI\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1119\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASEK22Project\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\ASEK22Project\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\ASEK22Project\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\ASEK22Project\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\ASEK22Project\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\ASEK22Project\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+D:\ASEK22Project\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1120\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1121\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\User\Desktop\1123\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI\WiseTech\obj\Debug\WiseTech.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+C:\Users\user.DESKTOP-5J22B3D\Desktop\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+E:\_\1227\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0104\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\0107\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0110\0109\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0109\ATSUI010902\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0111\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\0117\ATSUI_ChangeVersion\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0118\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0118\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0118\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0118\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0118\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0118\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0118\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0118\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0118\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0118\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0118\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0118\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0118\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0118\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0118\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0118\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0118\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0122\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0122\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0122\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0122\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0122\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0122\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0122\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0122\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0122\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0122\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0122\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0122\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0122\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0122\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0122\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0122\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0122\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0125\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0125\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0125\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0125\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0125\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0125\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0125\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0125\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0125\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0125\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0125\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0125\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\0129\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0129\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0130\0130\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0130\0130\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0130\0130\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0130\0130\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0130\0130\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0130\0130\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0130\0130\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0130\0130\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0130\0130\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0130\0130\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0130\0130\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0130\0130\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\0130\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0130\WiseTech\obj\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\0131\0130\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0131\0130\WiseTech\obj\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0211\0211\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0213\0211\0211\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0211\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0213\0211\0219\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0213\0211\0219\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0213\0211\0219\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0213\0211\0219\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0213\0211\0219\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0219\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0213\0211\0219\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0213\0211\0221\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0213\0211\0221\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0223\022301\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0223\022301\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0223\022301\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0223\022301\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0223\022301\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0223\022301\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0223\022301\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0223\022301\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0223\022301\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0223\022301\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0223\022301\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0223\022301\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0223\022601\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0223\022601\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0223\022601\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0223\022601\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0223\022601\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0223\022601\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0223\022601\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0223\022601\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0223\022601\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0223\022601\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0223\022601\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0223\022601\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0305\030501\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0305\030501\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0305\030501\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030501\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0305\030501\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0305\030501\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030501\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0305\030501\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0305\030501\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0305\030501\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0305\030501\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0305\030501\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0305\030601\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0305\030601\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0305\030601\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030601\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0305\030601\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0305\030601\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030601\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0305\030601\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0305\030601\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0305\030601\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0305\030601\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0305\030601\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0305\030601\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0305\030601\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0305\030601\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0305\030601\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0305\030601\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0305\030602\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0305\030602\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0305\030602\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0305\030602\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0305\030602\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0305\030602\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0305\030602\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0305\030602\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0305\030602\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0305\030602\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0305\030602\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0305\030602\WiseTech\obj\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\030801\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\030801\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0312\031201\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0312\031201\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0312\031201\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031201\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0312\031201\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0312\031201\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031201\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0312\031201\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0312\031201\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0312\031201\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0312\031201\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0312\031201\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0312\031202\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0312\031202\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0312\031202\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031202\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0312\031202\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0312\031202\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031202\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0312\031202\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0312\031202\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0312\031202\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0312\031202\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0312\031202\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0312\031301\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0312\031301\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0312\031301\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031301\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0312\031301\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0312\031301\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031301\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0312\031301\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0312\031301\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0312\031301\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0312\031301\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0312\031301\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0312\031302\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0312\031302\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0312\031302\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0312\031302\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0312\031302\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0312\031302\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0312\031302\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0312\031302\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0312\031302\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0312\031302\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0312\031302\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0312\031302\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0312\031302\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0312\031302\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0312\031302\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0312\031302\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0312\031302\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0318\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0318\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0318\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0318\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0318\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0318\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0318\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0318\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0318\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0318\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0318\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0318\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0318\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0318\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0318\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0318\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0318\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0320\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0320\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0320\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0320\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0320\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0320\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0320\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0320\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0320\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0320\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0320\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0320\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0325\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0325\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0325\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0325\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0325\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0325\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0325\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0325\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0325\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0325\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0325\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0325\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0326\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0326\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0326\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0326\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0326\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0326\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0326\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0326\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0326\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0326\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0326\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.csprojResolveAssemblyReference.cache
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0326\WiseTech\obj\Debug\WiseTech.pdb
+D:\Jack\0328\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Jack\0328\WiseTech\bin\Debug\WiseTech.exe
+D:\Jack\0328\WiseTech\bin\Debug\WiseTech.pdb
+D:\Jack\0328\WiseTech\bin\Debug\EntityFramework.dll
+D:\Jack\0328\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jack\0328\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Jack\0328\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jack\0328\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jack\0328\WiseTech\bin\Debug\EntityFramework.xml
+D:\Jack\0328\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jack\0328\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Jack\0328\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Jack\0328\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Jack\0328\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Jack\0328\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.Cache
+D:\Jack\0328\WiseTech\obj\Debug\WiseTech.exe
+D:\Jack\0328\WiseTech\obj\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\0429\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0429\WiseTech\obj\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\WiseTech.exe.config
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\WiseTech.pdb
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\EntityFramework.dll
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\System.Data.SQLite.dll
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\EntityFramework.xml
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\System.Data.SQLite.xml
+D:\Working software\膠管回溫機\0503\WiseTech\bin\Debug\System.Data.SQLite.dll.config
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.csprojAssemblyReference.cache
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.TesterForm.resources
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.Tester.DataManagerTester.resources
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.Properties.Resources.resources
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.csproj.GenerateResource.cache
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.csproj.CoreCompileInputs.cache
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.csproj.CopyComplete
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.exe
+D:\Working software\膠管回溫機\0503\WiseTech\obj\Debug\WiseTech.pdb

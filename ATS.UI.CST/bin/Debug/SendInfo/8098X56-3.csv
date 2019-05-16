@@ -1,0 +1,20 @@
+膠材資訊,,
+LotNO:,批號,8098X56
+P/N:,,1801930101
+Qty(kg):,,1.4
+EXP Date:,過期時間,20190306
+DOM:,,20180907
+
+設備資訊,,
+InColdTime,入冷藏時間,2019/3/29 10:55
+InColdOperator,入冷藏人員,開發人員-Jack
+InWarmTime,入回溫時間,2019/3/29 11:22
+InWarmOperator,入回溫人員,開發人員-Jack
+InWarmCompletedTime,回溫完成時間,2019/3/29 15:22
+TotalWarmTime,總回溫時間(m),4357(m)
+WarmType,回溫狀況,逾時階段(二)
+TotalWeight,膠材總重(g),1571.49(g)
+EmptyWeight,空膠材重量(g),172.195(g)
+ResinWeight,膠材淨重(g),1399.295(g)
+OutWarmedTime,倒料時間,2019/04/01 11:59:12
+OutWarmOperator,倒料人員,開發人員-Jack

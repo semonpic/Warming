@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1234C7EC-F5AB-4EF1-83B8-1E7C2CEE4E3B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATS.UI.CST</RootNamespace>
+    <AssemblyName>ATS.UI.CST</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>發行\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ATSIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ATS.UI.CST, Version=1.0.6884.32364, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="Automation.BDaq4, Version=4.0.0.0, Culture=neutral, PublicKeyToken=463f5928d60183a0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Advantech\DAQNavi\Automation.BDaq\4.0.0.0\Automation.BDaq4.dll</HintPath>
+    </Reference>
+    <Reference Include="CoreData">
+      <HintPath>..\ATS\SoapDLL\CoreData.dll</HintPath>
+    </Reference>
+    <Reference Include="DB">
+      <HintPath>..\ATS\SoapDLL\DB.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EventLogger">
+      <HintPath>..\ATS\SoapDLL\EventLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="GlobalTypes">
+      <HintPath>..\ATS\SoapDLL\GlobalTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="Hooks">
+      <HintPath>..\ATS\SoapDLL\Hooks.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.R100ManagerSDKLib, Version=2.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.R100ManagerSDKLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Misc">
+      <HintPath>..\ATS\SoapDLL\Misc.dll</HintPath>
+    </Reference>
+    <Reference Include="NModbus, Version=3.0.58.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NModbus.3.0.58\lib\net46\NModbus.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NModbus.Serial, Version=3.0.58.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NModbus.Serial.3.0.58\lib\net46\NModbus.Serial.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Secs4Net, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Secs4Net.1.0.0\lib\net462\Secs4Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SoapApi">
+      <HintPath>..\ATS\SoapDLL\SoapApi.dll</HintPath>
+    </Reference>
+    <Reference Include="SoapClient">
+      <HintPath>..\ATS\SoapDLL\SoapClient.dll</HintPath>
+    </Reference>
+    <Reference Include="SoapHost">
+      <HintPath>..\ATS\SoapDLL\SoapHost.dll</HintPath>
+    </Reference>
+    <Reference Include="SoapMessenger">
+      <HintPath>..\ATS\SoapDLL\SoapMessenger.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ATS\bin\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.109.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.109.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.109.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.0.0\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AlarmInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AlarmInformation.Designer.cs">
+      <DependentUpon>AlarmInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BarcoReader.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BarcoReader.Designer.cs">
+      <DependentUpon>BarcoReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ColdStoreTemp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ColdStoreTemp.Designer.cs">
+      <DependentUpon>ColdStoreTemp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\IO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\IO.Designer.cs">
+      <DependentUpon>IO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\IOTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\IOTable.designer.cs">
+      <DependentUpon>IOTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MachineLocation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MachineLocation.Designer.cs">
+      <DependentUpon>MachineLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MatchImformationPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MatchImformationPanel.designer.cs">
+      <DependentUpon>MatchImformationPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\OPRProgress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\OPRProgress.Designer.cs">
+      <DependentUpon>OPRProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ResinStore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ResinStore.Designer.cs">
+      <DependentUpon>ResinStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Store.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SystemSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SystemSetting.Designer.cs">
+      <DependentUpon>SystemSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TaskNumberSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TaskNumberSelect.Designer.cs">
+      <DependentUpon>TaskNumberSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TaskSuccess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TaskSuccess.Designer.cs">
+      <DependentUpon>TaskSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WarmStoreTemp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\WarmStoreTemp.Designer.cs">
+      <DependentUpon>WarmStoreTemp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ColdResinInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ColdResinInfo.Designer.cs">
+      <DependentUpon>ColdResinInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TempHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TempHistory.Designer.cs">
+      <DependentUpon>TempHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WarmResinInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WarmResinInfo.Designer.cs">
+      <DependentUpon>WarmResinInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WeightHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WeightHistory.Designer.cs">
+      <DependentUpon>WeightHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iris\CHostDBCtrl.cs" />
+    <Compile Include="Iris\Constants.cs" />
+    <Compile Include="Iris\frmIrisOperator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iris\frmIrisOperator.designer.cs">
+      <DependentUpon>frmIrisOperator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iris\Helper.cs" />
+    <Compile Include="Controls\IOStationPane.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\IOStationPane.Designer.cs">
+      <DependentUpon>IOStationPane.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iris\IrisCommon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\SafetyDoorSwitch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SafetyDoorSwitch.Designer.cs">
+      <DependentUpon>SafetyDoorSwitch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CycleRunSwitch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CycleRunSwitch.Designer.cs">
+      <DependentUpon>CycleRunSwitch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LogTabPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LogTabPanel.Designer.cs">
+      <DependentUpon>LogTabPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UserControlBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\UserControlBase.designer.cs">
+      <DependentUpon>UserControlBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ControlPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ControlPanel.Designer.cs">
+      <DependentUpon>ControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LoginPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LoginPanel.Designer.cs">
+      <DependentUpon>LoginPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MainTabsPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MainTabsPanel.Designer.cs">
+      <DependentUpon>MainTabsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StatusBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StatusBar.Designer.cs">
+      <DependentUpon>StatusBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StatusPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StatusPanel.Designer.cs">
+      <DependentUpon>StatusPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TitleBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TitleBar.Designer.cs">
+      <DependentUpon>TitleBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ManageUserGroupTabPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ManageUserGroupTabPanel.Designer.cs">
+      <DependentUpon>ManageUserGroupTabPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ManageUserTabPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ManageUserTabPanel.Designer.cs">
+      <DependentUpon>ManageUserTabPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TransportPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TransportPanel.Designer.cs">
+      <DependentUpon>TransportPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSTForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSTForm.Designer.cs">
+      <DependentUpon>CSTForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManager.cs" />
+    <Compile Include="Forms\SafetyDoorAlarmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SafetyDoorAlarmForm.Designer.cs">
+      <DependentUpon>SafetyDoorAlarmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserFormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserFormBase.Designer.cs">
+      <DependentUpon>UserFormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Languages.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AlarmInformation.resx">
+      <DependentUpon>AlarmInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BarcoReader.resx">
+      <DependentUpon>BarcoReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ColdStoreTemp.resx">
+      <DependentUpon>ColdStoreTemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\IO.resx">
+      <DependentUpon>IO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\IOTable.resx">
+      <DependentUpon>IOTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MachineLocation.resx">
+      <DependentUpon>MachineLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MatchImformationPanel.resx">
+      <DependentUpon>MatchImformationPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\OPRProgress.resx">
+      <DependentUpon>OPRProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ResinStore.resx">
+      <DependentUpon>ResinStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SystemSetting.resx">
+      <DependentUpon>SystemSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TaskNumberSelect.resx">
+      <DependentUpon>TaskNumberSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TaskSuccess.resx">
+      <DependentUpon>TaskSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WarmStoreTemp.resx">
+      <DependentUpon>WarmStoreTemp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ColdResinInfo.resx">
+      <DependentUpon>ColdResinInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TempHistory.resx">
+      <DependentUpon>TempHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WarmResinInfo.resx">
+      <DependentUpon>WarmResinInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WeightHistory.resx">
+      <DependentUpon>WeightHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iris\frmIrisOperator.resx">
+      <DependentUpon>frmIrisOperator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\IOStationPane.resx">
+      <DependentUpon>IOStationPane.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SafetyDoorSwitch.resx">
+      <DependentUpon>SafetyDoorSwitch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CycleRunSwitch.resx">
+      <DependentUpon>CycleRunSwitch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LogTabPanel.resx">
+      <DependentUpon>LogTabPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\UserControlBase.resx">
+      <DependentUpon>UserControlBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ControlPanel.resx">
+      <DependentUpon>ControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LoginPanel.resx">
+      <DependentUpon>LoginPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MainTabsPanel.resx">
+      <DependentUpon>MainTabsPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StatusBar.resx">
+      <DependentUpon>StatusBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StatusPanel.resx">
+      <DependentUpon>StatusPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TitleBar.resx">
+      <DependentUpon>TitleBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ManageUserGroupTabPanel.resx">
+      <DependentUpon>ManageUserGroupTabPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ManageUserTabPanel.resx">
+      <DependentUpon>ManageUserTabPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TransportPanel.resx">
+      <DependentUpon>TransportPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSTForm.resx">
+      <DependentUpon>CSTForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SafetyDoorAlarmForm.resx">
+      <DependentUpon>SafetyDoorAlarmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserFormBase.resx">
+      <DependentUpon>UserFormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICON\warning-145066_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ICON\system-users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ATS\ATS.csproj">
+      <Project>{c3ace46c-fa3e-4fb1-b659-7658252012c4}</Project>
+      <Name>ATS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PLCCommon\PLCCommon.csproj">
+      <Project>{15b10f18-8262-45dd-b771-bbd7f1823a98}</Project>
+      <Name>PLCCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WiseTech\WiseTech.csproj">
+      <Project>{d42c769d-9a0e-4b41-a237-fec2bfe68bc6}</Project>
+      <Name>WiseTech</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_WarningOn.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_About.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_WarningOff.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_OK_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_SystemUsers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_MainTopView6x4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Screenshot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_SystemUsers_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_NO_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MixedModeAll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_MainTopView6x41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jar_94.823117338003px_1153892_easyicon.net.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OutTime1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SkyBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warming.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WarmSuccess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Match.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MatchSuccess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveWhite48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\MatchSuccess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IOoff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IOon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ATSIcon.ico" />
+    <None Include="Resources\GreenCircle.png" />
+    <None Include="Resources\YellowCircle1.png" />
+    <None Include="Resources\RedCircle1.png" />
+    <None Include="Resources\OrangeCircle.png" />
+    <None Include="Resources\BlueCircle1.png" />
+    <None Include="Resources\BlackCircle2.png" />
+    <None Include="Resources\BlackCircle1.png" />
+    <None Include="Resources\BlackCircle.png" />
+    <None Include="Resources\Circle2.png" />
+    <None Include="Resources\Circle1.png" />
+    <None Include="Resources\Circle.png" />
+    <None Include="Resources\PNGCircle.png" />
+    <None Include="Resources\CircleNVersion.png" />
+    <None Include="bin\Debug\images\BlueCircle.png" />
+    <None Include="bin\Debug\images\GreenCircle.png" />
+    <None Include="bin\Debug\images\RedCircle.png" />
+    <None Include="bin\Debug\images\YellowCircle.png" />
+    <None Include="bin\Debug\images\BlackCircle.png" />
+    <None Include="bin\Debug\images\circles_262px_1154080_easyicon.net.png" />
+    <None Include="bin\Debug\images\2019-03-05_213720.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.109.1\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.109.1\build\net46\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>此專案參考這部電腦上所缺少的 NuGet 封裝。請啟用 NuGet 封裝還原，以下載該封裝。如需詳細資訊，請參閱 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的檔案是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.109.1\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.109.1\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
